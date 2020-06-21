@@ -1,4 +1,4 @@
-# react_assignment
+# reactAssignment
 
 Link for the deployed app on surge.sh
 
