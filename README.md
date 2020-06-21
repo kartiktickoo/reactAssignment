@@ -1,7 +1,7 @@
 # reactAssignment
 
 Link for the deployed app on surge.sh
-
+http://madly-goldfish.surge.sh/login
 
 How to run the assignment
 1.npm install
